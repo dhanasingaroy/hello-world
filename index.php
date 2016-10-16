@@ -7,7 +7,7 @@
 	</center>
     <br/><br/><br/>
 	<ul><ul><ul>
-	<form action="create_load.php" method="get">
+	<form action="create_load1.php" method="get">
 	  Duration (seconds): <input type="text" name="num" maxlength="4" size="4">
 	  <input type="submit" value="Do work">
 	</form>
